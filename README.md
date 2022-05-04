@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ArielXiao
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Python, R, and SQL
-- 💞️ I’m looking to collaborate on Data Analysis Projects Especially for Marketing
+- 💞️ I’m looking to collaborate on Data Analysis Projects
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/ariel-xiao-9894b8182/
 
 <!---
